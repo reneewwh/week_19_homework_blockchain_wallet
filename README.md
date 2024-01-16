@@ -97,17 +97,24 @@ Now it's time to put it all together and test the KryptoJobs2Go application with
 2. To launch the Streamlit application, type `streamlit run krypto_jobs.py`.
 
 3. On the resulting webpage, select a candidate that you would like to hire from the appropriate drop-down menu. Then, enter the number of hours that you would like to hire them for. (Remember, you do not have a lot of ether in your account, so you cannot hire them for long!)
+![CANDIDATE SELECTION](./Images/(LIST).png)
+![NUMBER OF HOURS REQUIRED](./Images/(POST%20NUM_HRS).png)
 
 4. Click the Send Transaction button to sign and send the transaction with your Ethereum account information. Navigate to the Transactions section of Ganache.
 
     * Take a screenshot of your address balance and history on Ganache. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
+    ![PRE_TRANSACTION](./Images/(BEFORE%20TX).png)
+    ![POST_TRANSACTIONS](./Images/(AFTERTX).png)
 
     * Take a screenshot of the transaction details on Ganache. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
+    ![LINE_ITEM_GENACHE](./Images/(GANACHE%20TX).png)
+    
 
 5. Return to the original transaction, and click the transaction’s To address.
+    ![TRANSACTION DETAILS](./Images/(TX_DETAILS).png)
 
 * Take a screenshot of the recipient’s address balance and history from your Ganache application. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
-
+ 
 ---
 
 ## Submission
